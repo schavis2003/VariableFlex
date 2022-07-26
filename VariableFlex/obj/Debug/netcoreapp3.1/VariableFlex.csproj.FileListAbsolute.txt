@@ -1,0 +1,5 @@
+C:\Users\19102\source\repos\VariableFlex\VariableFlex\obj\Debug\netcoreapp3.1\VariableFlex.csproj.AssemblyReference.cache
+C:\Users\19102\source\repos\VariableFlex\VariableFlex\obj\Debug\netcoreapp3.1\VariableFlex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19102\source\repos\VariableFlex\VariableFlex\obj\Debug\netcoreapp3.1\VariableFlex.AssemblyInfoInputs.cache
+C:\Users\19102\source\repos\VariableFlex\VariableFlex\obj\Debug\netcoreapp3.1\VariableFlex.AssemblyInfo.cs
+C:\Users\19102\source\repos\VariableFlex\VariableFlex\obj\Debug\netcoreapp3.1\VariableFlex.csproj.CoreCompileInputs.cache
